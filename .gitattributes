@@ -1,0 +1,8 @@
+# Keep the GitHub showcase and contributor files out of distribution archives.
+*.webp export-ignore
+/previews/ export-ignore
+/tests/ export-ignore
+/demo.css export-ignore
+/demo.js export-ignore
+/index.html export-ignore
+/.nojekyll export-ignore

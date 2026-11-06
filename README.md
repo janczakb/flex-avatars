@@ -51,7 +51,7 @@ The versioned URLs work directly in HTML. Use a preview in lists and the larger 
 
 ```html
 <img
-  src="https://cdn.jsdelivr.net/gh/janczakb/flex-avatars@v0.1.0/assets/animals/preview-300px/bear.avif"
+  src="https://cdn.jsdelivr.net/gh/janczakb/flex-avatars@v0.1.1/assets/animals/preview-300px/bear.avif"
   width="96"
   height="96"
   alt="Bear avatar"
@@ -63,7 +63,7 @@ The versioned URLs work directly in HTML. Use a preview in lists and the larger 
 Use the browser module on an HTTPS page or localhost. It fetches each collection's JSON only when requested. It returns preview and original URLs for you to render.
 
 ```js
-import { createCatalog } from 'https://cdn.jsdelivr.net/gh/janczakb/flex-avatars@v0.1.0/src/catalog.js'
+import { createCatalog } from 'https://cdn.jsdelivr.net/gh/janczakb/flex-avatars@v0.1.1/src/catalog.js'
 
 const catalog = createCatalog()
 const collections = await catalog.collections()
@@ -82,7 +82,7 @@ Install from the GitHub tag with Composer's VCS repository support, or clone the
 
 ```bash
 composer config repositories.flex-avatars vcs https://github.com/janczakb/flex-avatars.git
-composer require useflex/avatars:^0.1
+composer require useflex/avatars:^0.1 --prefer-dist
 ```
 
 ```php
@@ -93,6 +93,8 @@ $avatar = $catalog->find('animals/bear');
 $default = $catalog->pick((string) $user->id, 'animals');
 $original = Catalog::assetsPath().'/'.$avatar['image'];
 ```
+
+The Composer distribution contains the catalogue and AVIF images. The WebP collages, demo and tests are part of the Git checkout.
 
 Both APIs return an empty list for unknown collections and `null` for unknown avatar IDs. PHP returns paths relative to `Catalog::assetsPath()`. Serve only the `assets/` directory from your public web root to self-host the catalogue. Pass that directory's public URL to `createCatalog()` to make the browser module use it.
 
