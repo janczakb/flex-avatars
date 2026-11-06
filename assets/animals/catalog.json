@@ -1,0 +1,157 @@
+[
+  {
+    "id": "bear",
+    "image": "animals/900px/bear.avif",
+    "preview": "animals/preview-300px/bear.avif"
+  },
+  {
+    "id": "black-panther",
+    "image": "animals/900px/black-panther.avif",
+    "preview": "animals/preview-300px/black-panther.avif"
+  },
+  {
+    "id": "bull",
+    "image": "animals/900px/bull.avif",
+    "preview": "animals/preview-300px/bull.avif"
+  },
+  {
+    "id": "chameleon",
+    "image": "animals/900px/chameleon.avif",
+    "preview": "animals/preview-300px/chameleon.avif"
+  },
+  {
+    "id": "cow",
+    "image": "animals/900px/cow.avif",
+    "preview": "animals/preview-300px/cow.avif"
+  },
+  {
+    "id": "crocodile",
+    "image": "animals/900px/crocodile.avif",
+    "preview": "animals/preview-300px/crocodile.avif"
+  },
+  {
+    "id": "dalmatian",
+    "image": "animals/900px/dalmatian.avif",
+    "preview": "animals/preview-300px/dalmatian.avif"
+  },
+  {
+    "id": "eagle",
+    "image": "animals/900px/eagle.avif",
+    "preview": "animals/preview-300px/eagle.avif"
+  },
+  {
+    "id": "frog",
+    "image": "animals/900px/frog.avif",
+    "preview": "animals/preview-300px/frog.avif"
+  },
+  {
+    "id": "ginger-cat",
+    "image": "animals/900px/ginger-cat.avif",
+    "preview": "animals/preview-300px/ginger-cat.avif"
+  },
+  {
+    "id": "gorilla",
+    "image": "animals/900px/gorilla.avif",
+    "preview": "animals/preview-300px/gorilla.avif"
+  },
+  {
+    "id": "hyena",
+    "image": "animals/900px/hyena.avif",
+    "preview": "animals/preview-300px/hyena.avif"
+  },
+  {
+    "id": "leopard",
+    "image": "animals/900px/leopard.avif",
+    "preview": "animals/preview-300px/leopard.avif"
+  },
+  {
+    "id": "ostrich",
+    "image": "animals/900px/ostrich.avif",
+    "preview": "animals/preview-300px/ostrich.avif"
+  },
+  {
+    "id": "owl",
+    "image": "animals/900px/owl.avif",
+    "preview": "animals/preview-300px/owl.avif"
+  },
+  {
+    "id": "parrot",
+    "image": "animals/900px/parrot.avif",
+    "preview": "animals/preview-300px/parrot.avif"
+  },
+  {
+    "id": "penguin",
+    "image": "animals/900px/penguin.avif",
+    "preview": "animals/preview-300px/penguin.avif"
+  },
+  {
+    "id": "pig",
+    "image": "animals/900px/pig.avif",
+    "preview": "animals/preview-300px/pig.avif"
+  },
+  {
+    "id": "poodle",
+    "image": "animals/900px/poodle.avif",
+    "preview": "animals/preview-300px/poodle.avif"
+  },
+  {
+    "id": "purple-cat",
+    "image": "animals/900px/purple-cat.avif",
+    "preview": "animals/preview-300px/purple-cat.avif"
+  },
+  {
+    "id": "raccoon",
+    "image": "animals/900px/raccoon.avif",
+    "preview": "animals/preview-300px/raccoon.avif"
+  },
+  {
+    "id": "rhinoceros",
+    "image": "animals/900px/rhinoceros.avif",
+    "preview": "animals/preview-300px/rhinoceros.avif"
+  },
+  {
+    "id": "seal",
+    "image": "animals/900px/seal.avif",
+    "preview": "animals/preview-300px/seal.avif"
+  },
+  {
+    "id": "shark",
+    "image": "animals/900px/shark.avif",
+    "preview": "animals/preview-300px/shark.avif"
+  },
+  {
+    "id": "sloth",
+    "image": "animals/900px/sloth.avif",
+    "preview": "animals/preview-300px/sloth.avif"
+  },
+  {
+    "id": "snail",
+    "image": "animals/900px/snail.avif",
+    "preview": "animals/preview-300px/snail.avif"
+  },
+  {
+    "id": "tiger",
+    "image": "animals/900px/tiger.avif",
+    "preview": "animals/preview-300px/tiger.avif"
+  },
+  {
+    "id": "vulture",
+    "image": "animals/900px/vulture.avif",
+    "preview": "animals/preview-300px/vulture.avif"
+  },
+  {
+    "id": "walrus",
+    "image": "animals/900px/walrus.avif",
+    "preview": "animals/preview-300px/walrus.avif"
+  },
+  {
+    "id": "whale",
+    "image": "animals/900px/whale.avif",
+    "preview": "animals/preview-300px/whale.avif"
+  },
+  {
+    "id": "zebra",
+    "image": "animals/900px/zebra.avif",
+    "preview": "animals/preview-300px/zebra.avif"
+  }
+]

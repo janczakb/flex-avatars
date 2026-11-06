@@ -1,0 +1,67 @@
+[
+  {
+    "id": "anubis",
+    "image": "egypt/900px/anubis.avif",
+    "preview": "egypt/preview-300px/anubis.avif"
+  },
+  {
+    "id": "apep",
+    "image": "egypt/900px/apep.avif",
+    "preview": "egypt/preview-300px/apep.avif"
+  },
+  {
+    "id": "bastet",
+    "image": "egypt/900px/bastet.avif",
+    "preview": "egypt/preview-300px/bastet.avif"
+  },
+  {
+    "id": "bennu",
+    "image": "egypt/900px/bennu.avif",
+    "preview": "egypt/preview-300px/bennu.avif"
+  },
+  {
+    "id": "horus",
+    "image": "egypt/900px/horus.avif",
+    "preview": "egypt/preview-300px/horus.avif"
+  },
+  {
+    "id": "isis",
+    "image": "egypt/900px/isis.avif",
+    "preview": "egypt/preview-300px/isis.avif"
+  },
+  {
+    "id": "meretseger",
+    "image": "egypt/900px/meretseger.avif",
+    "preview": "egypt/preview-300px/meretseger.avif"
+  },
+  {
+    "id": "osiris",
+    "image": "egypt/900px/osiris.avif",
+    "preview": "egypt/preview-300px/osiris.avif"
+  },
+  {
+    "id": "serket",
+    "image": "egypt/900px/serket.avif",
+    "preview": "egypt/preview-300px/serket.avif"
+  },
+  {
+    "id": "sobek",
+    "image": "egypt/900px/sobek.avif",
+    "preview": "egypt/preview-300px/sobek.avif"
+  },
+  {
+    "id": "sphinx",
+    "image": "egypt/900px/sphinx.avif",
+    "preview": "egypt/preview-300px/sphinx.avif"
+  },
+  {
+    "id": "taweret",
+    "image": "egypt/900px/taweret.avif",
+    "preview": "egypt/preview-300px/taweret.avif"
+  },
+  {
+    "id": "thoth",
+    "image": "egypt/900px/thoth.avif",
+    "preview": "egypt/preview-300px/thoth.avif"
+  }
+]

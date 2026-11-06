@@ -1,0 +1,17 @@
+{
+    "name": "useflex/avatars",
+    "description": "Illustrated profile avatars with a lightweight, self-hosted catalogue.",
+    "type": "library",
+    "license": "MIT AND CC-BY-4.0",
+    "require": {
+        "php": "^8.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "UseFlex\\Avatars\\": "src/"
+        }
+    },
+    "scripts": {
+        "test": "php tests/catalog.php"
+    }
+}

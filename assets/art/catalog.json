@@ -1,0 +1,102 @@
+[
+  {
+    "id": "apple-and-gravity",
+    "image": "art/900px/apple-and-gravity.avif",
+    "preview": "art/preview-300px/apple-and-gravity.avif"
+  },
+  {
+    "id": "celestial-orbits",
+    "image": "art/900px/celestial-orbits.avif",
+    "preview": "art/preview-300px/celestial-orbits.avif"
+  },
+  {
+    "id": "chalkboard-genius",
+    "image": "art/900px/chalkboard-genius.avif",
+    "preview": "art/preview-300px/chalkboard-genius.avif"
+  },
+  {
+    "id": "citrus-mystery",
+    "image": "art/900px/citrus-mystery.avif",
+    "preview": "art/preview-300px/citrus-mystery.avif"
+  },
+  {
+    "id": "crimson-quill",
+    "image": "art/900px/crimson-quill.avif",
+    "preview": "art/preview-300px/crimson-quill.avif"
+  },
+  {
+    "id": "cubist-colors",
+    "image": "art/900px/cubist-colors.avif",
+    "preview": "art/preview-300px/cubist-colors.avif"
+  },
+  {
+    "id": "emerald-gloves",
+    "image": "art/900px/emerald-gloves.avif",
+    "preview": "art/preview-300px/emerald-gloves.avif"
+  },
+  {
+    "id": "flower-crown",
+    "image": "art/900px/flower-crown.avif",
+    "preview": "art/preview-300px/flower-crown.avif"
+  },
+  {
+    "id": "glowing-vial",
+    "image": "art/900px/glowing-vial.avif",
+    "preview": "art/preview-300px/glowing-vial.avif"
+  },
+  {
+    "id": "graffiti-crown",
+    "image": "art/900px/graffiti-crown.avif",
+    "preview": "art/preview-300px/graffiti-crown.avif"
+  },
+  {
+    "id": "melting-clock",
+    "image": "art/900px/melting-clock.avif",
+    "preview": "art/preview-300px/melting-clock.avif"
+  },
+  {
+    "id": "pearl-gaze",
+    "image": "art/900px/pearl-gaze.avif",
+    "preview": "art/preview-300px/pearl-gaze.avif"
+  },
+  {
+    "id": "polka-dot-muse",
+    "image": "art/900px/polka-dot-muse.avif",
+    "preview": "art/preview-300px/polka-dot-muse.avif"
+  },
+  {
+    "id": "pop-can-palette",
+    "image": "art/900px/pop-can-palette.avif",
+    "preview": "art/preview-300px/pop-can-palette.avif"
+  },
+  {
+    "id": "quiet-smile",
+    "image": "art/900px/quiet-smile.avif",
+    "preview": "art/preview-300px/quiet-smile.avif"
+  },
+  {
+    "id": "sea-breeze",
+    "image": "art/900px/sea-breeze.avif",
+    "preview": "art/preview-300px/sea-breeze.avif"
+  },
+  {
+    "id": "silver-beard-sketchbook",
+    "image": "art/900px/silver-beard-sketchbook.avif",
+    "preview": "art/preview-300px/silver-beard-sketchbook.avif"
+  },
+  {
+    "id": "starry-brush",
+    "image": "art/900px/starry-brush.avif",
+    "preview": "art/preview-300px/starry-brush.avif"
+  },
+  {
+    "id": "waterlily-dream",
+    "image": "art/900px/waterlily-dream.avif",
+    "preview": "art/preview-300px/waterlily-dream.avif"
+  },
+  {
+    "id": "white-fur-companion",
+    "image": "art/900px/white-fur-companion.avif",
+    "preview": "art/preview-300px/white-fur-companion.avif"
+  }
+]

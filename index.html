@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore 96 illustrated profile avatars in five collections. Use them in personal and commercial apps.">
+  <meta name="theme-color" content="#f9f8f4">
+  <title>FLEX Avatars — Illustrated profile avatars</title>
+  <link rel="stylesheet" href="./demo.css">
+</head>
+<body>
+  <header class="frame masthead">
+    <a class="brand" href="./"><span aria-hidden="true">F</span> FLEX Avatars</a>
+    <a href="https://github.com/janczakb/flex-avatars">GitHub ↗</a>
+  </header>
+  <main class="frame">
+    <section class="hero" aria-labelledby="headline">
+      <p class="eyebrow">96 avatars · 5 collections</p>
+      <h1 id="headline">Give every profile<br> a little character.</h1>
+      <p>Illustrated avatars for your next app. Browse the collections and pick a favorite.</p>
+    </section>
+    <section class="catalogue" aria-labelledby="collection-title">
+      <nav aria-label="Avatar collections" id="collections"></nav>
+      <h2 id="collection-title">Avatars</h2>
+      <p role="status" id="status">Loading collections…</p>
+      <div id="avatars" class="gallery"></div>
+    </section>
+  </main>
+  <footer class="frame">
+    <a href="https://creativecommons.org/licenses/by/4.0/">Artwork licensed CC BY 4.0</a>
+    <a href="https://flex-fields.bjanczak.com/docs/file-upload-avatar-gallery">Use with Filament ↗</a>
+  </footer>
+  <dialog aria-labelledby="avatar-name">
+    <button type="button" id="close" class="close" aria-label="Close preview">×</button>
+    <img id="preview" width="900" height="900" alt="">
+    <div class="detail">
+      <div><h2 id="avatar-name"></h2><code id="avatar-id"></code></div>
+      <a id="download" download>Download AVIF</a>
+    </div>
+  </dialog>
+  <script type="module" src="./demo.js"></script>
+</body>
+</html>

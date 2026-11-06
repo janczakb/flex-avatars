@@ -1,0 +1,62 @@
+[
+  {
+    "id": "baba-yaga",
+    "image": "slavic/900px/baba-yaga.avif",
+    "preview": "slavic/preview-300px/baba-yaga.avif"
+  },
+  {
+    "id": "chort",
+    "image": "slavic/900px/chort.avif",
+    "preview": "slavic/preview-300px/chort.avif"
+  },
+  {
+    "id": "devana",
+    "image": "slavic/900px/devana.avif",
+    "preview": "slavic/preview-300px/devana.avif"
+  },
+  {
+    "id": "leshy",
+    "image": "slavic/900px/leshy.avif",
+    "preview": "slavic/preview-300px/leshy.avif"
+  },
+  {
+    "id": "morana",
+    "image": "slavic/900px/morana.avif",
+    "preview": "slavic/preview-300px/morana.avif"
+  },
+  {
+    "id": "nochnitsa",
+    "image": "slavic/900px/nochnitsa.avif",
+    "preview": "slavic/preview-300px/nochnitsa.avif"
+  },
+  {
+    "id": "perun",
+    "image": "slavic/900px/perun.avif",
+    "preview": "slavic/preview-300px/perun.avif"
+  },
+  {
+    "id": "poludnitsa",
+    "image": "slavic/900px/poludnitsa.avif",
+    "preview": "slavic/preview-300px/poludnitsa.avif"
+  },
+  {
+    "id": "svantovit",
+    "image": "slavic/900px/svantovit.avif",
+    "preview": "slavic/preview-300px/svantovit.avif"
+  },
+  {
+    "id": "upyr",
+    "image": "slavic/900px/upyr.avif",
+    "preview": "slavic/preview-300px/upyr.avif"
+  },
+  {
+    "id": "veles",
+    "image": "slavic/900px/veles.avif",
+    "preview": "slavic/preview-300px/veles.avif"
+  },
+  {
+    "id": "vodyanoy",
+    "image": "slavic/900px/vodyanoy.avif",
+    "preview": "slavic/preview-300px/vodyanoy.avif"
+  }
+]

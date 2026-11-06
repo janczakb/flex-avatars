@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "collections": [
+    {
+      "id": "animals",
+      "label": "Animals",
+      "count": 31
+    },
+    {
+      "id": "art",
+      "label": "Art",
+      "count": 20
+    },
+    {
+      "id": "egypt",
+      "label": "Egypt",
+      "count": 13
+    },
+    {
+      "id": "greek",
+      "label": "Greek mythology",
+      "count": 20
+    },
+    {
+      "id": "slavic",
+      "label": "Slavic mythology",
+      "count": 12
+    }
+  ]
+}

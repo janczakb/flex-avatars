@@ -1,0 +1,102 @@
+[
+  {
+    "id": "aphrodite",
+    "image": "greek/900px/aphrodite.avif",
+    "preview": "greek/preview-300px/aphrodite.avif"
+  },
+  {
+    "id": "apollo",
+    "image": "greek/900px/apollo.avif",
+    "preview": "greek/preview-300px/apollo.avif"
+  },
+  {
+    "id": "ares",
+    "image": "greek/900px/ares.avif",
+    "preview": "greek/preview-300px/ares.avif"
+  },
+  {
+    "id": "artemis",
+    "image": "greek/900px/artemis.avif",
+    "preview": "greek/preview-300px/artemis.avif"
+  },
+  {
+    "id": "athena",
+    "image": "greek/900px/athena.avif",
+    "preview": "greek/preview-300px/athena.avif"
+  },
+  {
+    "id": "cyclops",
+    "image": "greek/900px/cyclops.avif",
+    "preview": "greek/preview-300px/cyclops.avif"
+  },
+  {
+    "id": "demeter",
+    "image": "greek/900px/demeter.avif",
+    "preview": "greek/preview-300px/demeter.avif"
+  },
+  {
+    "id": "dionysos",
+    "image": "greek/900px/dionysos.avif",
+    "preview": "greek/preview-300px/dionysos.avif"
+  },
+  {
+    "id": "hades",
+    "image": "greek/900px/hades.avif",
+    "preview": "greek/preview-300px/hades.avif"
+  },
+  {
+    "id": "hekate",
+    "image": "greek/900px/hekate.avif",
+    "preview": "greek/preview-300px/hekate.avif"
+  },
+  {
+    "id": "hephaistos",
+    "image": "greek/900px/hephaistos.avif",
+    "preview": "greek/preview-300px/hephaistos.avif"
+  },
+  {
+    "id": "hera",
+    "image": "greek/900px/hera.avif",
+    "preview": "greek/preview-300px/hera.avif"
+  },
+  {
+    "id": "herakles",
+    "image": "greek/900px/herakles.avif",
+    "preview": "greek/preview-300px/herakles.avif"
+  },
+  {
+    "id": "hermes",
+    "image": "greek/900px/hermes.avif",
+    "preview": "greek/preview-300px/hermes.avif"
+  },
+  {
+    "id": "medusa",
+    "image": "greek/900px/medusa.avif",
+    "preview": "greek/preview-300px/medusa.avif"
+  },
+  {
+    "id": "minotauros",
+    "image": "greek/900px/minotauros.avif",
+    "preview": "greek/preview-300px/minotauros.avif"
+  },
+  {
+    "id": "pegasos",
+    "image": "greek/900px/pegasos.avif",
+    "preview": "greek/preview-300px/pegasos.avif"
+  },
+  {
+    "id": "poseidon",
+    "image": "greek/900px/poseidon.avif",
+    "preview": "greek/preview-300px/poseidon.avif"
+  },
+  {
+    "id": "satyros",
+    "image": "greek/900px/satyros.avif",
+    "preview": "greek/preview-300px/satyros.avif"
+  },
+  {
+    "id": "zeus",
+    "image": "greek/900px/zeus.avif",
+    "preview": "greek/preview-300px/zeus.avif"
+  }
+]
